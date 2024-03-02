@@ -115,19 +115,14 @@ int main()
 	q.Print();
 
 	q.Dequeue();
-
 	q.Print();
 
 	q.Dequeue();
-
 	q.Print();
 
 	q.Dequeue();
-
 	q.Print();
 
 	q.Dequeue();
-
 	q.Print();
 }
-
